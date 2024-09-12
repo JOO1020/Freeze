@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "name":"Blond Black T-shirt",
+        "price":500,
+        "imgUrl":"/imgs/black-blond.jpg"
+        
+    },
+    {
+        "id":2,
+        "name":"Freeze Pantes",
+        "price":650,
+        "imgUrl":"/imgs/freeze-pantes.jpg"
+        
+    },
+    {
+        "id":3,
+        "name":"Browm Freeze Hoddie",
+        "price":750,
+        "imgUrl":"/imgs/brwon-hoddie.jpg"
+        
+    },
+    {
+        "id":4,
+        "name":"White Blond T-shirt",
+        "price":500,
+        "imgUrl":"/imgs/white-blond.jpg"
+        
+    },
+    {
+        "id":5,
+        "name":"Freeze 22 T-shirt",
+        "price":450,
+        "imgUrl":"/imgs/22-freeze.jpg"
+        
+    },
+    
+    {
+        "id":6,
+        "name":"Gray Freeze T-shirt",
+        "price":650,
+        "imgUrl":"/imgs/gray-freeze.jpg"
+        
+    },
+    {
+        "id":7,
+        "name":"No One Can Beat Me T-shirt",
+        "price":550,
+        "imgUrl":"/imgs/old-freeze-tg.jpg"
+    },
+    {
+        "id":8,
+        "name":"Black Freeze T-shirt",
+        "price":450,
+        "imgUrl":"/imgs/black-freeze.jpg"
+    },
+    {
+        "id":9,
+        "name":"Pink Freeze T-shirt",
+        "price":450,
+        "imgUrl":"/imgs/pink-freeze.jpg"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Blue Freeze T-shirt",
+        "price":450,
+        "imgUrl":"/imgs/blue-freze.jpg"
+    }
+]
